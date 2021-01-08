@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xox.neuralnet", "xox.neural
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xox.neuralnet.tests", "xox.neuralnet.tests\xox.neuralnet.tests.csproj", "{1D686F5A-B2A9-47C8-8335-DBC47B6E20A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xox.game.connectfour", "xox.game.connectfour\xox.game.connectfour.csproj", "{32F8CDB1-AF45-4547-9B0B-C818B9C7B0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1D686F5A-B2A9-47C8-8335-DBC47B6E20A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D686F5A-B2A9-47C8-8335-DBC47B6E20A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D686F5A-B2A9-47C8-8335-DBC47B6E20A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F8CDB1-AF45-4547-9B0B-C818B9C7B0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F8CDB1-AF45-4547-9B0B-C818B9C7B0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F8CDB1-AF45-4547-9B0B-C818B9C7B0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F8CDB1-AF45-4547-9B0B-C818B9C7B0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
